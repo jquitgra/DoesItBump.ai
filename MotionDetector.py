@@ -15,6 +15,8 @@ def motiondect(file):
     # Assigning our static_back to None
     static_back = None
 
+    print(file)
+
     # List when any moving object appear
     motion_list = [None, None]
 
